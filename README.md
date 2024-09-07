@@ -1,0 +1,2 @@
+# kakoune
+Sol kakoune plugins.
